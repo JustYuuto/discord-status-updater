@@ -1,0 +1,14 @@
+{
+  "name": "discord-status-updater",
+  "description": "A tool for updating your Discord custom status automatically",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1"
+  }
+}
